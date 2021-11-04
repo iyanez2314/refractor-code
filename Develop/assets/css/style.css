@@ -52,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero Class */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,6 +61,34 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Ending Of hero class */
+
+/* Content section */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.content div {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img  {
+    max-height: 200px;
+}
+
+.content h2{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* Content section ending */
+
 
 .float-left {
     float: left;
@@ -71,12 +100,9 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
 
+
+/* Benfitis section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,25 +129,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Benifits Section Ending */
 
-.content div {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img  {
-    max-height: 200px;
-}
-
-.content h2{
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* footer start */
 footer div {
     padding: 30px;
     clear: both;
@@ -133,3 +143,4 @@ footer h2 {
     font-size: 20px;
     text-align: center;
 }
+/* footer ending */
