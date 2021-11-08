@@ -18,8 +18,12 @@ I was also given CSS that was not consolidated.
 
 Some of the CSS code was also being re-used.
 
+There was also on the CSS file.
+
 #### What i did to fix this
 
 I made sure that the CSS selectors that were being used for the same style were on the same line instead of being re-used on multiple lines.
 
 I also made sure that the CSS selectors were targeting the correct HTML elements.
+
+I also added comments on the CSS file for each HTML section we added CSS to.
