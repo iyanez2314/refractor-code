@@ -1,8 +1,10 @@
+/* Global selectors */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+/* Ending of global selector */
 
 body {
     background-color: #d9dcd6;
